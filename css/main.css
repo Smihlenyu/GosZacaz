@@ -6,9 +6,7 @@
   padding: 0px;
   margin: 0px;
   border: none;
-  background-color: red;
 }
-
 
 *,
 *::before,
@@ -106,3 +104,6 @@ legend {
 }
 
 /* blocks */
+.fara {
+  background-color: green;
+}
